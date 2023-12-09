@@ -35,16 +35,16 @@ color:
 footer:
   copyright: 반려 개발자
   location: Location
-  social: 커뮤니케이션
-  credits: 최종경력
+  social: Communication
+  credits: Total career
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Gmail
+  - title: 'Gmail'
     url: coco5855@gmail.com
-  - title: OpenKakao
+  - title: 'OpenKakao'
     url: https://open.kakao.com/o/svYFOZWf
-  - title: Github
+  - title: 'Github'
     url: https://github.com/coco6958
     
 # Postal address (add as many lines as necessary)
