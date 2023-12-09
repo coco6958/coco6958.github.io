@@ -35,24 +35,24 @@ color:
 footer:
   copyright: 반려 개발자
   location: Location
-  social: Github
-  credits: ©2023반려개발자
+  social: 커뮤니케이션
+  credits: 최종경력
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: https://github.com/coco6958
- - title: 오픈카카오
-    url: https://open.kakao.com/o/svYFOZWf
-- title: gmail
+  - title: Gmail
     url: coco5855@gmail.com
-
+  - title: OpenKakao
+    url: https://open.kakao.com/o/svYFOZWf
+  - title: Github
+    url: https://github.com/coco6958
+    
 # Postal address (add as many lines as necessary)
 address:
-  - line: 경기도 군포시 산본
+  - line: Korea, sanbon
 
 # Credits content
-credits: 'test'
+credits: '24년 7개월'
 
 # Build settings
 markdown: kramdown
