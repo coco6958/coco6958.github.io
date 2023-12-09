@@ -1,6 +1,6 @@
 # Site settings
 title: 반려 개발자
-email: coco5855@naver.com
+email: coco5855@gmail.com
 url: https://coco6958.github.io/
 description: "Hi!"
 keywords: "풀스택, 재택, 책임감, 납기 지키미" 
@@ -34,26 +34,17 @@ color:
 footer:
   copyright: 반려 개발자
   location: Location
-  social: 프로필 여러가지..
+  social: Github
   credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: https://github.com/coco6958
-  - title: 
-    url:
-  - title: 
-    url: 
-  - title: 
-    url: 
-  - title: 
-    url: 
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 경기도 군포시 산본
-  - line: 
 
 # Credits content
 credits: 'test'
