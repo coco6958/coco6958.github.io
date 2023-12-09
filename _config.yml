@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: 반려 개발자
-  location: OpenKakao
+  location: Talk 
   social: Github
   credits: Total career
 
@@ -45,7 +45,8 @@ social:
     
 # Postal address (add as many lines as necessary)
 address:
-  - line: https://open.kakao.com/o/svYFOZWf
+  - line: OpenKakao
+    url: https://open.kakao.com/o/svYFOZWf
 
 
 # Credits content
