@@ -6882,6 +6882,9 @@ readers do not read off random characters that represent icons */
 .fa-openkakao:before {
   content: "\f16c"; }
 
+.fa-openKakao-alt:before {
+  content: "\f16c"; }
+
 .fa-gitkraken:before {
   content: "\f3a6"; }
 
