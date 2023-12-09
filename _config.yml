@@ -34,25 +34,23 @@ color:
 # Footer settings
 footer:
   copyright: 반려 개발자
-  location: Location
+  location: Email
   social: Communication
   credits: Total career
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: 'Gmail'
-    url: coco5855@gmail.com
-  - title: 'OpenKakao'
+  - title: openKakao
     url: https://open.kakao.com/o/svYFOZWf
-  - title: 'Github'
+  - title: github
     url: https://github.com/coco6958
     
 # Postal address (add as many lines as necessary)
 address:
-  - line: Korea, sanbon
+  - line: coco5855@gmail.com
 
 # Credits content
-credits: '24년 7개월'
+credits: 'more than 20 years'
 
 # Build settings
 markdown: kramdown
