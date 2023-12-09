@@ -3,7 +3,7 @@ title: 반려 개발자
 email: coco5855@naver.com
 url: https://coco6958.github.io/
 description: "Hi!"
-keywords: "java, spring, jsp, javascript, Angular, React Typescript"
+keywords: "풀스택, 재택, 책임감, 납기 지키미" 
 skills: "java, spring, jsp, javascript, Angular, React, Typescript"
 meta_author: kyung hee kim
 
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 경기도 군포시
-  - line: 산본
+  - line: 경기도 군포시 산본
+  - line: 
 
 # Credits content
 credits: 'test'
