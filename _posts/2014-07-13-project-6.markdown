@@ -9,5 +9,5 @@ client: 코리아런더리
 category: Web Development
 description: 코리아런더리 비봇 프로젝트 풀스택 개발
 통계 시스템 고도화 및 데이터 시각화
-SpringBoot, JPA, thymeleaf, Bootstrap, eCharts, github, Java,HTML5, jQuery , Amazone Cloud
+SpringBoot + JPA + thymeleaf + Bootstrap + eCharts + github + Java + HTML5 + jQuery + Amazone Cloud
 ---
