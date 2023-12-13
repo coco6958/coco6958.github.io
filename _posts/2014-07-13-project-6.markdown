@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2020.03
+date: 2014.7.13
 img: profile6.png
 alt: 보안상 UI 킷 샘플 덤프합니다.
 project-date: 2020.03. ~ 2020.05.
