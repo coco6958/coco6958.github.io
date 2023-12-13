@@ -7,7 +7,5 @@ alt: 보안상 UI 킷 샘플 덤프합니다.
 project-date: 2020.03. ~ 2020.05.
 client: 코리아런더리
 category: Web Development
-description: 코리아런더리 비봇 프로젝트 풀스택 개발
-통계 시스템 고도화 및 데이터 시각화
-SpringBoot + JPA + thymeleaf + Bootstrap + eCharts + github + Java + HTML5 + jQuery + Amazone Cloud
+description: 비봇 프로젝트(코리아런더리) 풀스택 개발, 통계 시스템 고도화 및 데이터 시각화, SpringBoot + JPA + thymeleaf + Bootstrap + eCharts + github + Java + HTML5 + jQuery + Amazone Cloud
 ---
