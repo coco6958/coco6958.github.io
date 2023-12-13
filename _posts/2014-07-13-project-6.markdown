@@ -7,18 +7,8 @@ alt: 보안상 UI 킷 샘플 덤프합니다.
 project-date: 2020.03. ~ 2020.05.
 client: 코리아런더리
 category: Web Development
-description: 통계 시스템 고도화 및 데이터 시각화 풀 스택 개발
-
-- 포트폴리오 소개:
+description: 
 코리아런더리 비봇 프로젝트 풀스택 개발
-
-- 작업 범위:
-풀스택 개발 (api + 쿼리 + 챠트 + ui)
-
-- 주요 기능:
-관리 데이터 시각화
-
-- 사용 기술:
+통계 시스템 고도화 및 데이터 시각화
 SpringBoot, JPA, thymeleaf, Bootstrap, eCharts, github, Java,HTML5, jQuery , Amazone Cloud
-
 ---
