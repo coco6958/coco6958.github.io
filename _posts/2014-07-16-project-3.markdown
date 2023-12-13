@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2023-12-13
 img: profile3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2009.05. ~ 2009.10.
+client: 교통안전공단
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 교통안전 공단 운행기록데이터 분석 통계 시스템 구축
+영업용 자동차 운행기록 데이터 분석 통계 업무
+영업용 자동차들의 운행 기록 데이터를 업로딩 받아서 평가 및 조회, 통계 업무 구축
+
+분석 설계 및 서버 및 통신 개발, DB 설계, UI설계/PL/공통개발
+Java / Oracle 10/이클립스/ 소켓 / HONE/IB SHEET
 ---
