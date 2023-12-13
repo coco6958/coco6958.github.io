@@ -7,5 +7,16 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 한류뱅크 관리자 사이트 고도화 개발
+게시판 공지사항 커뮤니티 클럽 등을 관리 하는 관리자 사이트 입니다.
+Back-end, Front-end 개발
+로그인, 회원관리, 게시판 관리, 공지관리. 커뮤니티 관리, 클럽 관리, 신고관리, 제재 관리, 관리자 관리, 관리자 등급 별 권한 관리
+
+- 사용 기술:
+Spring boot
+Spring Security
+java
+mybatis
+mySql
+Angular13
 ---
