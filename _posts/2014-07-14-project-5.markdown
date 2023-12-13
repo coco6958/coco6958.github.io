@@ -1,22 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014.7.14
+date: 2014-7-14
 img: profile5.png
 alt: 로그인 화면
 project-date:2022.10. ~ 2022.12.
 client: 한류뱅크
 category: Web Development
-description: 한류뱅크 관리자 사이트 고도화 개발
-게시판 공지사항 커뮤니티 클럽 등을 관리 하는 관리자 사이트 입니다.
-Back-end, Front-end 개발
-로그인, 회원관리, 게시판 관리, 공지관리. 커뮤니티 관리, 클럽 관리, 신고관리, 제재 관리, 관리자 관리, 관리자 등급 별 권한 관리
-
-- 사용 기술:
-Spring boot
-Spring Security
-java
-mybatis
-mySql
-Angular13
+description: 한류뱅크 관리자 사이트 고도화, 게시판 공지사항 커뮤니티 클럽 관리, Back-end + Front-end 개발, 로그인, 회원관리, 게시판 관리, 공지관리. 커뮤니티 관리, 클럽 관리, 신고관리, 제재 관리, 관리자 관리, 관리자 등급 별 권한 관리, Spring boot + Spring Security + java + mybatis + mySql + Angular13
 ---
