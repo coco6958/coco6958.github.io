@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-12-13
+date: 2019.02
 img: profile1.png
 alt: 통합로그관리분석솔루션 대시보드
 project-date: 2019.02. ~ 2019.06.
