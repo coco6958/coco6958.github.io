@@ -4,8 +4,12 @@ modal-id: 4
 date: 2014-07-15
 img: profile4.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2021.10.01~2021.10.26
+client: LG CNS
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: HA Dashboaard 프로젝트
+DashBoad 화면 개발
+React, eChart
+토탈 가전 인공지능 관련 데이터 시각화 표시
+react 기반 데이터 시각화(chart) 프로젝트
 ---
