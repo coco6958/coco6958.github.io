@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2022.10
+date: 2022.10.04
 img: profile5.png
 alt: 로그인 화면
 project-date:2022.10. ~ 2022.12.
