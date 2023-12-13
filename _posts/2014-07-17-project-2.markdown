@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023.01. ~ 2023.03.
 client: 하이퍼센싱
 category: Web Development
-description: 교차로 카메라로 수집한 교통량 및 교통 데이터 시각화 구축, 교통량 및 교통 관련 수집 데이터 기반 통계 조회 및 챠트 조회, 교차로 별 카메라 목록 맵 표시 + 교차로 카메라 마커 클릭 시 동영상 플레이, TTA시험인증 통과, 클린 코드, Spring Boot 2.6.6 + java (open jdk 17) + thymeleaf + html css javascript + jQuery + Ajax + bootstrap4 + naver map + eCharts + oracle11g + IntelliJ + Tomcat + Swagger
+description: 교차로 카메라로 수집한 교통량 및 교통 관련 수집 데이터 기반 통계 및 데이터 시각화, TTA시험인증 통과, 클린 코드, Spring Boot 2.6.6 + java (open jdk 17) + thymeleaf + html css javascript + jQuery + Ajax + bootstrap4 + naver map + eCharts + oracle11g + IntelliJ + Tomcat + Swagger
 ---
