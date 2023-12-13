@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014.7.17
+date: 2014-7-17
 img: profile2.png
 alt: image-alt
 project-date: 2023.01. ~ 2023.03.
