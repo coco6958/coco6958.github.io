@@ -7,7 +7,5 @@ alt: 통합로그관리분석솔루션 대시보드
 project-date: 2019.02. ~ 2019.06.
 client: 데이터인사이트
 category: Web Development
-description: 보안 및 일반 로그 데이터를 수집 룰에 따른 파싱 후 DB 보관, 사용자의 Need에 맞게 정책 수립 분석 후 시각화 및 보고서 조회하는 통합로그관리분석솔루션 구축
-경보 알림 및 기본 데이터 관리 및 종합상황판, 공격지 지도 맵 출력, 대시보드 구현, 수집된 로그 정책 설정, 로그 검색, 필터링, 검색 고도화, 보고서 출력
-Spring Boot + java + Mybatis + MySql + Angular 6.0 + chart.js + Visual Studio Code + Sts + HeidiSQL + Birt
+description: 통합 로그 관리 분석 솔루션 구축 Spring Boot + java + Mybatis + MySql + Angular 6.0 + chart.js + Visual Studio Code + Sts + HeidiSQL + Birt
 ---
