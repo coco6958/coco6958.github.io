@@ -23,8 +23,8 @@ $(function() {
                 type: "POST",
                 data: {
                     contact_number: contact_number
-                    name: user_name,
-                    email: user_email,
+                    user_name: user_name,
+                    user_email: user_email,
                     message: message
                 },
                 cache: false,
